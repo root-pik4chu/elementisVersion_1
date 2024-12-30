@@ -1,0 +1,15 @@
+body, html, #root {
+   margin: 0;
+   padding: 0;
+   overflow: hidden; /* Prevent scrollbar during animation */
+   position: relative;
+   height: 100%;
+ }
+ 
+ .relative {
+   position: relative;
+ }
+ 
+ .absolute {
+   position: absolute;
+ }
